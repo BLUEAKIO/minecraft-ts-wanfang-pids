@@ -8,6 +8,7 @@
 			"customTextPushArrival": false,
 			"background": "jsblock:custom_directory/ts_pids_atc.png",
 			"fonts": "mtr:mtr",
+			"carLengtColor": [null, "000000", null, "000000", null ,"000000", null, "000000"],
 			"color": "000000"
 		},
 		{
