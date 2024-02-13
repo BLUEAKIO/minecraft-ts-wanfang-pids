@@ -4,7 +4,7 @@
 			"id": "ts_pids_atc",
 			"showWeather": false,
 			"showClock": false,
-			"hideRow": [true, true, true, false],
+			"hideRow": [true, true, true, true],
 			"customTextPushArrival": false,
 			"background": "jsblock:custom_directory/ts_pids_atc.png",
 			"fonts": "mtr:mtr",
@@ -21,12 +21,12 @@
 			"color": "000000"
 		},
 		{
-			"id": "ts_pids_goto",
+			"id": "ts_pids_goto_qr_code",
 			"showWeather": false,
 			"showClock": false,
 			"hideRow": [true, true, true, false],
 			"customTextPushArrival": false,
-			"background": "jsblock:custom_directory/ts_pids_goto.png",
+			"background": "jsblock:custom_directory/ts_pids_goto_qr_code.png",
 			"fonts": "mtr:mtr",
 			"color": "000000"
 		},
@@ -39,12 +39,12 @@
 			"background": "jsblock:custom_directory/ts_pids_goto.png",
 			"fonts": "mtr:mtr",
 			"color": "000000"
-		}
+		},
 		{
 			"id": "ts_pids_icon",
 			"showWeather": false,
 			"showClock": false,
-			"hideRow": [false, false, false, false],
+			"hideRow": [true, true, true, true],
 			"customTextPushArrival": false,
 			"background": "jsblock:custom_directory/ts_pids_icon.png",
 			"fonts": "mtr:mtr",
@@ -64,7 +64,7 @@
 			"id": "ts_pids_test",
 			"showWeather": false,
 			"showClock": false,
-			"hideRow": [true, true, true, true],
+			"hideRow": [false, false, false, false],
 			"customTextPushArrival": false,
 			"background": "jsblock:custom_directory/ts_pids_test.png",
 			"fonts": "mtr:mtr",
