@@ -60,36 +60,6 @@
 			"background": "jsblock:custom_directory/ts_pids_qr_code.png",
 			"fonts": "mtr:mtr",
 			"color": "000000"
-		},
-		{
-			"id": "ts_pids_test",
-			"showWeather": false,
-			"showClock": false,
-			"hideRow": [false, false, false, false],
-			"customTextPushArrival": false,
-			"background": "jsblock:custom_directory/ts_pids_test.png",
-			"fonts": "mtr:mtr",
-			"color": "000000"
-		},
-		{
-			"id": "ts_t413_pids_goto",
-			"showWeather": false,
-			"showClock": false,
-			"hideRow": [true, true, true, false],
-			"customTextPushArrival": false,
-			"background": "jsblock:custom_directory/ts_t413_pids_goto.png",
-			"fonts": "mtr:mtr",
-			"color": "000000"
-		},
-		{
-			"id": "ts_t413_pids_icon",
-			"showWeather": false,
-			"showClock": false,
-			"hideRow": [true, true, true, true],
-			"customTextPushArrival": false,
-			"background": "jsblock:custom_directory/ts_t413_pids_icon.png",
-			"fonts": "mtr:mtr",
-			"color": "000000"
 		}
 	]
 }
